@@ -1,0 +1,64 @@
+.speed1{
+    border: 1px rgb(rgb(107, 186, 127), rgb(149, 194, 149), rgb(158, 158, 229)) groove;
+    padding: 15px 20px 15px 15px;
+    text-align: center;
+    background-color: orange;
+    width: 97%;
+    margin: 0px auto;
+}
+.speed2{
+    font-size: 50px;
+    color: white;
+    font-weight: bold;
+    width: 98%;
+}
+.speed3{
+    color: rgb(255, 255, 255);
+    background-color: yellowgreen;
+    border-radius: 7px;
+    border: 1px dashed rgb(87, 87, 108);
+    width: 750px;
+    height: 50px;
+   text-align: center;
+    font-size: 25px;
+    margin: 20px;
+    padding: 20px 20px 20px 20px;
+    font-weight: bold;
+    align-items: center;
+    margin-left: 330px;
+}
+
+.speed4{
+    
+    border: 3px red dotted;
+    width: 250px;height: 200px;
+/* padding: 20px 10px 20px 10px; */
+margin: 20px 10px 20px 10px;
+padding-top: 5px;
+color: blue;
+    background-color: chartreuse;
+}
+div ul li a{
+    font-size: 25px;
+}
+
+.speed7{
+    width: 325px; height: 434px;
+    background-color:  rgb(228, 228, 228);
+    margin: 20px 0px 30px 1200px;
+    font-size: large;
+    background: none;
+    color: orangered;
+
+}
+.speed9{
+    text-align: right;
+    color: orangered;
+}
+
+.speed8{
+    text-align: center;
+    border: 2 green dotted;
+    background-color: aqua;
+    font-size: 25px;
+}
